@@ -1,0 +1,7 @@
+<html>
+    <form method="post" action="/post">
+        <input type="text" value="some value" name="foobar" />
+        <br />
+        <button type="submit">Click me</button>
+    </form>
+</html>
