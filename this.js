@@ -8,7 +8,6 @@ let obj = {
     }
 };
 
-obj.method();
 
 // let func = () => obj.method();
 // func();
